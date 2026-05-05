@@ -1,4 +1,4 @@
-# UIC860 Rail Deep Rolling — ML Workshop
+# UIC860 Rail Deep Rolling 
 This project explores High-Temperature Deep Rolling parameters on
 Laser-Clad (Stellite 6) UIC860 Grade 900A Rail Steel
 using DOE for micro-hardness prediction.
